@@ -126,7 +126,7 @@ proxy-groups:
   - {name: TikTok, !!merge <<: *pr, icon: "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/refs/heads/main/Icon/Color/Large/TikTok.png"}
   - {name: Telegram, !!merge <<: *pr, icon: "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/refs/heads/main/Icon/Color/Large/Telegram.png"}
   - {name: X, !!merge <<: *pr, icon: "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/refs/heads/main/Icon/Color/Large/X.png"}
-  - {name: NETFLIX, !!merge <<: *pr, icon: "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/refs/heads/main/Icon/Color/Large/Netflix.png"}
+  - {name: Netflix, !!merge <<: *pr, icon: "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/refs/heads/main/Icon/Color/Large/Netflix.png"}
   - {name: Speedtest, !!merge <<: *pr, icon: "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/refs/heads/main/Icon/Color/Large/SpeedTest.png"}
   - {name: Steam, !!merge <<: *pr, icon: "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/refs/heads/main/Icon/Color/Large/Steam.png"}
   - {name: Apple, type: select, proxies: [直连, 🚀 默认代理], icon: "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/refs/heads/main/Icon/Color/Large/Apple_rainbow.png"}
