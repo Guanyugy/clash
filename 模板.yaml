@@ -174,13 +174,13 @@ rules:
   - RULE-SET,speedtest_domain,Speedtest
   - RULE-SET,telegram_domain,Telegram
   - RULE-SET,x_domain,X
-  - RULE-SET,netflix_domain,NETFLIX
+  - RULE-SET,netflix_domain,Netflix
   - RULE-SET,steam_domain,Steam
   - RULE-SET,gfw_domain,🚀 默认代理
   - RULE-SET,geolocation-!cn,🚀 默认代理
   - RULE-SET,cn_domain,🎯 直连
   - RULE-SET,google_ip,Google,no-resolve
-  - RULE-SET,netflix_ip,NETFLIX,no-resolve
+  - RULE-SET,netflix_ip,Netflix,no-resolve
   - RULE-SET,telegram_ip,Telegram,no-resolve
   - RULE-SET,cn_ip,🎯 直连
   - MATCH,🐟 漏网之鱼
