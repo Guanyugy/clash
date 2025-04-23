@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   IPLC:
-    url: "https://mysub.cc/subscribe/23832/kC5moePuib/ssr/"
+    url: "订阅地址"
     type: http
     interval: 86400
     health-check:
@@ -11,7 +11,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   红杏:
-    url: "https://hongxingdl.love/hxyunvip?token=6594fe8634da114f09639efa2ae614c2"
+    url: "订阅地址"
     type: http
     interval: 86400
     health-check:
